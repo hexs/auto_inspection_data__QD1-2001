@@ -1,0 +1,24 @@
+{
+    "frames": {
+        "h03": {
+            "xywh": [0.47902006283356247, 0.5375625743852706, 0.21797727433099157, 0.2987532486503375],
+            "model_used": "Thick_thread_tap",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "NG": [
+                    "ng"
+                ]
+            }
+        }
+    },
+    "models": {
+        "Thick_thread_tap": {
+            "class_names": [
+                "ok",
+                "ng"
+            ]
+        }
+    }
+}
